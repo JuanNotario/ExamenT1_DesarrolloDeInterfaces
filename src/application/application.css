@@ -1,0 +1,39 @@
+.fondoAbajo{
+	-fx-background-color: #008080;
+}
+
+.fondo {
+	-fx-background-image: url("../images/blueforest.jpg");
+	-fx-background-size: cover, auto;
+}
+
+.fondo2 {
+	-fx-background-image: url("../images/profilephoto.png");
+}
+
+.fondoUem {
+	-fx-background-image: url("../images/uem.jpg");
+	-fx-background-size: cover, auto;
+}
+
+.myButton{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+}
+
+.myButton:hover {
+	-fx-background-color: #946D05;
+	-fx-border-color: #946D05;
+}
+
+.myButton2{
+	-fx-background-color: #008080;
+	-fx-border-color: #008080;
+	-fx-text-fill: white;
+}
+
+.myButton2:hover {
+	-fx-background-color: #026464;
+	-fx-border-color: #026464;
+}
